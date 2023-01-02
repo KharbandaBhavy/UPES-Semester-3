@@ -38,7 +38,19 @@
 ## Object Oriented Programming (JAVA) 🧑🏻‍💻
 ### Approximate idea of Experiments for JAVA's folder. Although, the doc of detailed problem statements is also added in the folder.
 
-- Experiment-1: Find sum of all array elements using recursion.
+- Lab-1: basic java programs.
+- Lab-2: Classes in Java.
+- Lab-3: Functions within classes in Java.
+- Lab-4: Inheritance in java.
+- Lab-5: Interface in java.
+- Lab-6: Packages in Java.
+- Lab-7: Exceptions in java.
+- Lab-7 (Part-2): Exceptions practice questions in Java.
+- Lab-8: Strings in Java
+- Lab-8 (Part-2): String Buffer in Java.
+- Lab-9: Threads in Java.
+- Lab-10: Collections in java
+-
 
 
 
