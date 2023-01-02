@@ -49,8 +49,9 @@
 - Lab-8: Strings in Java
 - Lab-8 (Part-2): String Buffer in Java.
 - Lab-9: Threads in Java.
-- Lab-10: Collections in java
--
+- Lab-10: Collections in java.
+- Lab-11: JDBC in Java.
+- Along with these some more basic programs, session programs and practice programs are added in Java.
 
 
 
