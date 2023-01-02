@@ -20,7 +20,17 @@
 
 ## Artificial Intelligence Lab 🤖
 ### Approximate idea of Experiments for Artificial Intelligence folder. Although, the doc of detailed problem statements is also added in the folder.
-- Lab Exercise-1: Basic Linux Commands
+- Write a program to solve different set operations using python.
+- Write a program to implement propositional logic in AI.
+- Write a program to implement Tautologies, and Contradiction.
+- Write a program to implement Bayesian Network in a given real-world problem. Compute the accuracy of the Bayesian Network, considering few test data sets. (Monty Hall Problem)
+- Design and implement Bayesian Network for real-world data sets. (Burglary Alarm Problem)
+- Write a program to solve the Travelling Salesperson algorithm for a real-world problem.
+- Design and implement a Perceptron learner and Neural Networks learner and test on real-world problem data sets.
+- Write a program to implement the linear regression, multiple linear regression algorithm, and Logistic Regression algorithms to fit data points. Select the appropriate data set for your experiment and draw graphs.
+- Write a program to solve Wumpus World Problem.
+- Write a program to demonstrate the working of the decision tree algorithm. Use an appropriate data set for building the decision tree and apply this knowledge to classify a new sample.
+
 
 
 
